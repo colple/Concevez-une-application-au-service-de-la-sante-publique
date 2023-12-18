@@ -36,7 +36,7 @@ Les champs sont séparés en quatre sections:
 ## Contenu du dépôt
 1. Le notebook de nettoyage des données: notebook_1_nettoyage.ipynb.
 2. Le notebook d'analyses exploratoires des données comprenant les analyses uni- et multivariées, une réduction dimensionnelle non-supervisé (Analyse en Composantes Principales (PCA ou ACP) ainsi que de l'apprentissage supervisé: notebook_2_exploration.ipynb. 
-3. Le support de présentation pour la soutenance sous format pdf: support_presentation_2.pdf.
+3. Le support de présentation pour la soutenance sous format pdf: support_presentation_3.pdf.
 4. La liste des librairies nécessaires à la réalisation du projet: requirements.txt.
 5. Le logo de la société sous format .png: logo_sante_publique.png.
 
