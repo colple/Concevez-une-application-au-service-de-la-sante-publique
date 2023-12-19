@@ -47,4 +47,4 @@ Les champs sont séparés en quatre sections:
 4. Premier pas dans l'apprentissage supervisé.
 
 ## Auteur
-**colple** *(Coline Plé)*
+**Coline Plé**
